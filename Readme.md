@@ -1,3 +1,9 @@
+This is a project assignment from the Coursera Getting and cleaning data course. 
+
+
+The program does the following thing in order:
+
+Merges the training and the test sets to create one data set. Extracts only the measurements on the mean and standard deviation for each measurement. Uses descriptive activity names to name the activities in the data set Appropriately labels the data set with descriptive variable names. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
 The files required to run de program "run_analysis.R"is containded in file "getdata-projectfiles-UCI HAR Dataset.zip"
 
